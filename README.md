@@ -28,7 +28,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](assets/readme/homepage.png)
+![](https://github.com/Daway101/Space-Tourism/blob/main/assets/screenshot/Desktop%20-%20Home.png)
+![](https://github.com/Daway101/Space-Tourism/blob/main/assets/screenshot/Mobile%20-%20Menu.png)
+![](https://github.com/Daway101/Space-Tourism/blob/main/assets/screenshot/Mobile%20-%20Technology%20-%20A.png)
+![](https://github.com/Daway101/Space-Tourism/blob/main/assets/screenshot/Tablet%20-%20Destination%20-%20A.png)
 
 ### Links
 
